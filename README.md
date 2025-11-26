@@ -5,7 +5,7 @@
 [English](README.md) | [简体中文](README.zh-CN.md)
 # Just One API - Python SDK
 
-Official Python SDK for accessing [Just One API](https://justoneapi.com) — a unified data service platform offering structured data from Social, E-commerce platforms such as Xiaohongshu, Taobao, Douyin, Kuaishou, Bilibili, and Weibo.
+Official Python SDK for accessing [Just One API](https://justoneapi.com?source=github&detail=justoneapi-01/xiaohongshu-api) — a unified data service platform offering structured data from Social, E-commerce platforms such as Xiaohongshu, Taobao, Douyin, Kuaishou, Bilibili, and Weibo.
 
 This SDK simplifies API integration and request signing, allowing developers to easily retrieve platform-specific data with minimal setup.
 
@@ -62,13 +62,13 @@ Each API method returns one or more of the following values:
 ## 🔐 Authentication
 
 All API requests require a valid API token.  
-👉 [Register](https://justoneapi.com/register)
+👉 [Register](https://user.justoneapi.com/sign-up?source=github&detail=justoneapi-01/xiaohongshu-api)
 
 ---
 
 ## 📚 Documentation
 
-👉 Full API docs: [API Document](https://doc.justoneapi.com)
+👉 Full API docs: [API Document](https://doc.justoneapi.com?source=github&detail=justoneapi-01/xiaohongshu-api)
 
 Includes:
 - Request parameters
@@ -79,7 +79,7 @@ Includes:
 
 ## 🏠 Official Website
 
-👉 [Home Page](https://justoneapi.com)
+👉 [Home Page](https://justoneapi.com?source=github&detail=justoneapi-01/xiaohongshu-api)
 
 Learn more about the project, data sources, and commercial integration opportunities.
 
@@ -89,7 +89,7 @@ Learn more about the project, data sources, and commercial integration opportuni
 
 If you have any questions, feedback, or partnership inquiries:
 
-👉 [Contact](https://justoneapi.com/contact)
+👉 [Contact](https://justoneapi.com/contact?source=github&detail=justoneapi-01/xiaohongshu-api)
 
 ---
 
